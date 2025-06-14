@@ -1,0 +1,11 @@
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+pygame>=2.6.0
+
+# Development dependencies
+pytest>=6.2.0
+black>=22.0.0
+flake8>=4.0.0
+setuptools>=65.0.0 
